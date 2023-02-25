@@ -3,6 +3,27 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/2560px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="MOVISTAR" tvg-id="M. LIGA DE CAMPEONES 1", M. LIGA DE CAMPEONES 1
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 
-#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2005/02/DAZN-LaLiga.jpg" group-title="LALIGA" tvg-id="DAZN LaLigaHD", DAZN LALIGA
+# DAZN LALIGA
+
+#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2005/02/DAZN-LaLiga.jpg" group-title="LALIGA" tvg-id="DAZN LaLigaHD", DAZN LALIGA 1080p MULTI
 acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 
+#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2005/02/DAZN-LaLiga.jpg" group-title="LALIGA" tvg-id="DAZN LaLigaHD", DAZN LALIGA 1080p MULTI OP2
+acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
+
+#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2005/02/DAZN-LaLiga.jpg" group-title="LALIGA" tvg-id="DAZN LaLigaHD", DAZN LALIGA 720p
+acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
+
+# M+ LALIGA
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga.png" group-title="LALIGA" tvg-id="M+ LaLiga HD", M+ LALIGA 1080p MULTI
+acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga.png" group-title="LALIGA" tvg-id="M+ LaLiga HD", M+ LALIGA 1080p MULTI OP2
+acestream://d47addf5e467cbf102ba759600303c21efb1deeb
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga.png" group-title="LALIGA" tvg-id="M+ LaLiga HD", M+ LALIGA 1080p
+acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga.png" group-title="LALIGA" tvg-id="M+ LaLiga HD", M+ LALIGA 720p
+acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
