@@ -1,17 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/2560px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="MOVISTAR" tvg-id="M. LIGA DE CAMPEONES 1", M. LIGA DE CAMPEONES 1
-acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+# EPG: https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml
 
 # DAZN LALIGA
 
-#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2005/02/DAZN-LaLiga.jpg" group-title="LALIGA" tvg-id="DAZN LaLigaHD", DAZN LALIGA 1080p MULTI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" group-title="LALIGA" tvg-id="DAZN LaLiga HD", DAZN LALIGA 1080p MULTI
 acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 
-#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2005/02/DAZN-LaLiga.jpg" group-title="LALIGA" tvg-id="DAZN LaLigaHD", DAZN LALIGA 1080p MULTI OP2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" group-title="LALIGA" tvg-id="DAZN LaLiga HD", DAZN LALIGA 1080p MULTI OP2
 acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 
-#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2005/02/DAZN-LaLiga.jpg" group-title="LALIGA" tvg-id="DAZN LaLigaHD", DAZN LALIGA 720p
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" group-title="LALIGA" tvg-id="DAZN LaLiga HD", DAZN LALIGA 720p
 acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
 
 # M+ LALIGA
@@ -27,3 +26,22 @@ acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga.png" group-title="LALIGA" tvg-id="M+ LaLiga HD", M+ LALIGA 720p
 acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga_2.png" group-title="LALIGA" tvg-id="M+ LaLiga 2 HD", M+ LALIGA 2 1080p MULTI
+acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga_2.png" group-title="LALIGA" tvg-id="M+ LaLiga 2 HD", M+ LALIGA 2 720p
+acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
+
+# M+ LIGA DE CAMPEONES
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga_2.png" group-title="LALIGA" tvg-id="M+ LaLiga 2 HD", M+ LALIGA 2 720p
+acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
+
+
+
+
+
+
+
+
