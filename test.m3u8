@@ -4,13 +4,13 @@
 
 # == LALIGA ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" group-title="LALIGA;DAZN" tvg-id="DAZN LaLiga HD", DAZN LALIGA 1080p MULTI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" group-title="LALIGA" tvg-id="DAZN LaLiga HD", DAZN LALIGA 1080p MULTI
 acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" group-title="LALIGA;DAZN" tvg-id="DAZN LaLiga HD", DAZN LALIGA 1080p MULTI OP2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" group-title="LALIGA" tvg-id="DAZN LaLiga HD", DAZN LALIGA 1080p MULTI OP2
 acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" group-title="LALIGA;DAZN" tvg-id="DAZN LaLiga HD", DAZN LALIGA 720p
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" group-title="LALIGA" tvg-id="DAZN LaLiga HD", DAZN LALIGA 720p
 acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLigaTV%20HD.png" group-title="LALIGA" tvg-id="M+ LaLigaTV HD", M+ LALIGA 1080p MULTI
@@ -52,7 +52,7 @@ acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85
 acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204%20HD.png" group-title="DAZN" tvg-id="DAZN 4 HD", DAZN 4 1080p
-acestream://149a38e333de920753f1388c43247283bdb05f5b
+acestream://149a38e333de920753f1388c43247283bdb05f5b	
 
 
 
