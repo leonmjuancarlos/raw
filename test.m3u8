@@ -2,7 +2,6 @@
 
 # EPG: https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml
 
-# DAZN LALIGA
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" group-title="LALIGA" tvg-id="DAZN LaLiga HD", DAZN LALIGA 1080p MULTI
 acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
@@ -12,8 +11,6 @@ acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" group-title="LALIGA" tvg-id="DAZN LaLiga HD", DAZN LALIGA 720p
 acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
-
-# M+ LALIGA
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLigaTV%20HD.png" group-title="LALIGA" tvg-id="M+ LaLigaTV HD", M+ LALIGA 1080p MULTI
 acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
@@ -35,8 +32,6 @@ acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
 
 #EXTINF:-1 group-title="LALIGA" tvg-id="LaLigaTV Bar HD", LALIGA BAR 1080p
 acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
-
-# M+ LIGA DE CAMPEONES
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga_2.png" group-title="LALIGA" tvg-id="M+ LaLiga 2 HD", M+ LALIGA 2 720p
 acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
