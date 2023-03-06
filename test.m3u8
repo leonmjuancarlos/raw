@@ -78,9 +78,16 @@ acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20HD.png" group-title="DAZN" tvg-id="DAZN F1 HD", DAZN F1 720p
 acestream://a52bf7c28df63995ad427c32ebf1e517445720bb
 
-#EXTINF:-1 tvg-logo="" group-title="DAZN" tvg-id="", Movistar deportes 720p
-http://192.168.1.11:6878/ace/getstream?id=e5fa927d9a017f4523fdb62774a0aec457985bfa
+# == MOVISTAR ==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20%23Vamos%20HD.png" group-title="MOVISTAR" tvg-id="M+ #Vamos HD", M+ #VAMOS 1080p
+acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20%23Vamos%20HD.png" group-title="MOVISTAR" tvg-id="M+ #Vamos HD", M+ #VAMOS 720p
+acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Ellas%20%23V%20HD.png" group-title="MOVISTAR" tvg-id="M+ Ellas #V HD", M+ Ellas #V
+acestream://71e9e4c66a271ff58beb76792e01eeb6a1dde746
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20%230%20HD.png" group-title="MOVISTAR" tvg-id="M+ #0 HD", M+ #0
+acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
