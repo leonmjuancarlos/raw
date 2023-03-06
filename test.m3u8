@@ -52,9 +52,16 @@ acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85
 acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204%20HD.png" group-title="DAZN" tvg-id="DAZN 4 HD", DAZN 4 1080p
-acestream://149a38e333de920753f1388c43247283bdb05f5b	
+acestream://149a38e333de920753f1388c43247283bdb05f5b
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20HD.png" group-title="DAZN" tvg-id="DAZN F1 HD", DAZN F1 1080p
+acestream://60cf60019aeef9af6183dd05af1b89e25594ac14	
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20HD.png" group-title="DAZN" tvg-id="DAZN F1 HD", DAZN F1 1080p OP2
+acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20HD.png" group-title="DAZN" tvg-id="DAZN F1 HD", DAZN F1 720p
+acestream://a52bf7c28df63995ad427c32ebf1e517445720bb
 
 
 
