@@ -1,9 +1,9 @@
 const fs = require('fs');
 
 INPUT = './test.m3u8'
-IP = '192.168.1.11'
+IP = '192.168.1.15'
 PORT = '6878'
-OUTPUT = './test-http.m3u8'
+OUTPUT = './test-http-2.m3u8'
 
 fs.readFile(INPUT, 'utf8', (err, data) => {
   if (err) {
