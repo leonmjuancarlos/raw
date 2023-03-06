@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HLS example</title>
+  <link href="http://vjs.zencdn.net/4.12/video-js.css" rel="stylesheet">
+  <script src="http://vjs.zencdn.net/4.12/video.js"></script>
+  <script src="https://github.com/videojs/videojs-contrib-media-sources/releases/download/v0.1.0/videojs-media-sources.js"></script>
+  <script src="https://github.com/videojs/videojs-contrib-hls/releases/download/v0.11.2/videojs.hls.min.js"></script>
+</head>
+<body>
+  <video id="myvideo" class="video-js vjs-default-skin" controls preload="auto" width="640" height="390" data-setup='{}'>
+    <source
+      src="http://127.0.0.1:6878/ace/getstream?id=7264961f63dc9dc6ef7acee7371f7a76b6a02061"
+      type="application/x-mpegurl">
+  </video>
+</body>
+</html>
