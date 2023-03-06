@@ -63,6 +63,8 @@ acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20HD.png" group-title="DAZN" tvg-id="DAZN F1 HD", DAZN F1 720p
 acestream://a52bf7c28df63995ad427c32ebf1e517445720bb
 
+#EXTINF:-1 tvg-logo="" group-title="DAZN" tvg-id="", Movistar deportes 720p
+http://127.0.0.1:6878/ace/getstream?id=e5fa927d9a017f4523fdb62774a0aec457985bfa&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 
 
 
