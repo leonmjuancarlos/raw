@@ -121,4 +121,7 @@ acestream://5da3c25c14d111cb9c33cf6e0b45b7cab88fe741
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%208.png" group-title="MOVISTAR" tvg-id="M+ Deportes 8", M+ Deportes 8 SD
 acestream://b779e6056975e3682a804d47cbd5cc806217f64d
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%208.png" group-title="MOVISTAR" tvg-id="M+ Deportes 3", M+ Deportes 8 SD asdf
+acestream://b779e6056975e3682a804d47cbd5cc806217f64d
+
 
