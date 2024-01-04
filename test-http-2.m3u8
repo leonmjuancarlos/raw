@@ -14,7 +14,7 @@ http://192.168.1.15:6878/ace/getstream?id=0b01aa547ffe11ce2042bfe443abafb3ea17e5
 http://192.168.1.15:6878/ace/getstream?id=05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLigaTV%20HD.png" group-title="LALIGA" tvg-id="M+ LaLigaTV HD", M+ LALIGA 1080p MULTI
-http://192.168.1.15:6878/ace/getstream?id=1e0214a06000e6f4847dd30cdc2fb839527be862
+http://192.168.1.15:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLigaTV%20HD.png" group-title="LALIGA" tvg-id="M+ LaLigaTV HD", M+ LALIGA 1080p MULTI OP2
 http://192.168.1.15:6878/ace/getstream?id=d47addf5e467cbf102ba759600303c21efb1deeb
